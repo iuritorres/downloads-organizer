@@ -1,5 +1,5 @@
 # Downloads Organizer
 
--  Download the cleaner (_Windows_): [Download me here!](https://github.com/iuritorres/downloads-organizer/blob/main/dist/Cleaner.exe)
+<a href="https://github.com/iuritorres/downloads-organizer/blob/main/dist/Cleaner.exe" download> - Download the cleaner (<i>Windows</i>): Download me here!</a>
 
 Docs soon...
